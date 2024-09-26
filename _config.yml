@@ -9,6 +9,7 @@ permalink:        pretty
 title:            Anthony Maisonet
 tagline:          'My Profile'
 description:      'My basic profile for employment'
+url:              https://maisonac.github.io/
 baseurl:          /
 plugins:          [jekyll-paginate, jekyll-gist]
 
