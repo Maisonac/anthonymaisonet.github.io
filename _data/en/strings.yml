@@ -1,15 +1,15 @@
 home:
-  contact_me: "You can contact me for any of this channels:"
-  blog_title: "Blog: Last Posts"
+  contact_me: "You can contact me here:"
+  blog_title: "Blog: Latest Posts"
   see_more_posts: "See More Posts ->"
-  projects_title: "Last Projects"
+  projects_title: "Latest Projects"
   see_more_projects: "See More Projects ->"
 footer:
-  title: "Let's keep in touch!"
-  description: " Find me on any of these platforms. "
+  title: "Don't Fucking Bother Me!"
+  description: " But if you need, reach out here. "
   pages: Pages
 blog:
   read_more: "Read More ->"
   more_articles: "More Posts"
 post:
-  share: Like it? Share it!
+  share: ""
