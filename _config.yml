@@ -12,6 +12,7 @@ tagline:          'My Profile'
 description:      'My basic profile for employment'
 url:              https://anthonymaisonet.github.io
 baseurl:          /
+plugins:          [jekyll-paginate]
 
 author:
   name:           'Mark Otto'
